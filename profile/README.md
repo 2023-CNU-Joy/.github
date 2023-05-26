@@ -1,5 +1,19 @@
 # Judge On You
 
+## Group Member
+
+<div align="center">
+  
+|[Eustace](https://github.com/dlwnsrb0829)|[Hojeong Eom](https://github.com/DobiIsFree)|[heejung Kim](https://github.com/orgs/2023-CNU-Joy/people/hj-k66)
+|:---:|:---:|:---:|
+|🐻|🦊|🐰|
+|<img src="https://avatars.githubusercontent.com/u/39390618?v=4" width="105">|<img src="https://avatars.githubusercontent.com/u/52994616?v=4" width="105">|<img src="https://avatars.githubusercontent.com/u/68041758?v=4" width="105">|
+
+</div>
+
+</br>
+
+
 ## 💻 Summary
 - 클라이언트 중심 코딩테스트 플랫폼
 
@@ -23,11 +37,3 @@
 
 
 ## Demo
-
-
-## Team Member
-|이름|아이디|역할|
-|:---:|:---:|:---:|
-|🐻 이준규||팀장|
-|🐰 김희정|||
-|🦊 엄호정|||
