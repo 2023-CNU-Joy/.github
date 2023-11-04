@@ -50,7 +50,8 @@
 
 ## 프로젝트 구조
 
-<img width="477" alt="스크린샷 2023-05-31 오후 3 29 19" src="https://github.com/DobiIsFree/Dobby-Socks/assets/52994616/78b7a1b3-a73e-4a4c-8173-c91b9fc6f476">
+<p align="center"><img width="592" src="./figure/project.png"></p>
+
 
 <!-- 1. 문제를 저장하는 DB: 출제자가 자신의 서버에서 작성한 문제가 저장되고 권한에 따라 다른 출제자에게 공유 가능
 2. 출제자[서버]: 출제자가 원할 때 서버를 작동시켜 시험 응시자들을 수용하고, 응시 결과 수집 가능. 서버가 상시 동작하지 않아도 되므로 비용 절감 효과. 출제자 Interface 제공해 문제를 작성하고 공유 가능
@@ -64,7 +65,7 @@
 
 ## 개발 환경
 
-<img width="592" alt="스크린샷 2023-05-31 오후 3 17 11" src="https://github.com/DobiIsFree/Dobby-Socks/assets/52994616/56106fa7-07a8-433b-bad0-fb980edaba29">
+<p align="center"><img width="592" src="./figure/system.png"></p>
 
 </br>
 
