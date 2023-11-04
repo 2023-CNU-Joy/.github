@@ -50,7 +50,8 @@
 
 ## 프로젝트 구조
 
-<p align="center"><img width="592" src="./figure/project.png"></p>
+<p align="center"><img width="592" src="https://github.com/Dobbies-Escape-Diary/2023-CNU-SW-AI-Project-Fair/blob/main/figure/project.png"></p>
+
 
 
 <!-- 1. 문제를 저장하는 DB: 출제자가 자신의 서버에서 작성한 문제가 저장되고 권한에 따라 다른 출제자에게 공유 가능
@@ -65,7 +66,7 @@
 
 ## 개발 환경
 
-<p align="center"><img width="592" src="./figure/system.png"></p>
+<p align="center"><img width="592" src="https://github.com/Dobbies-Escape-Diary/2023-CNU-SW-AI-Project-Fair/blob/main/figure/system.png"></p>
 
 </br>
 
