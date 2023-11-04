@@ -65,7 +65,7 @@
 
 ## 개발 환경
 
-<p align="center"><img width="592" src="./figure/system.png"></p>
+<p align="center"><img width="592" src="./figure/system.png"></p>
 
 </br>
 
